@@ -1,0 +1,6 @@
+camera_id: rooftop_cam_001
+location: Tower7
+resolution: 1920x1080
+fps: 30
+night_mode: true
+timezone: Europe/London
