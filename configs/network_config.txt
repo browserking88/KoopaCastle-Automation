@@ -1,0 +1,12 @@
+SSID: UnileverWiFi
+BSSID: B4:5D:50:AA:86:41
+
+Firewall Status: Enabled
+Castle Router: KoopaRouter-X
+Location: London
+
+DNS Servers:
+  Primary: 8.8.8.8
+  Secondary: 8.8.4.4
+
+Network Security: WPA3
